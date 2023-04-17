@@ -18,6 +18,8 @@ cd src
 python detection.py --mode train
 ```
 
+* Then run the video capture mode: 
+
 ```bash
 cd src
 python detection.py --mode display
